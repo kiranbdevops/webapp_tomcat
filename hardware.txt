@@ -1,3 +1,0 @@
-testfile
-2ndfile
-3rd file
